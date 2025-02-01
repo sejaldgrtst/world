@@ -1,0 +1,1 @@
+console.log("srm ek ghatiya college hai")
